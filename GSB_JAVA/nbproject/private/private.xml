@@ -3,7 +3,51 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/Samir/Documents/NetBeansProjects/GSB_JAVA/gsbJdbc.properties</file>
+            <file>file:/C:/wamp64/www/GSB_JAVA/gsbJdbc.properties</file>
+            <file>file:/C:/wamp64/www/GSB_JAVA/src/vue/VueMedicament.java</file>
+            <file>file:/C:/wamp64/www/GSB_JAVA/src/modele/metier/Secteur.java</file>
+            <file>file:/C:/wamp64/www/GSB_JAVA/src/modele/dao/DaoFamille.java</file>
+            <file>file:/C:/wamp64/www/GSB_JAVA/src/modele/dao/DaoMedicament.java</file>
+            <file>file:/C:/wamp64/www/GSB_JAVA/src/modele/dao/DaoInterface.java</file>
+            <file>file:/C:/wamp64/www/GSB_JAVA/src/modele/dao/DaoVisiteur.java</file>
+            <file>file:/C:/wamp64/www/GSB_JAVA/src/vue/VueAbstraite.java</file>
+            <file>file:/C:/wamp64/www/GSB_JAVA/test/controleur/CtrlMedicamentTest.java</file>
+            <file>file:/C:/wamp64/www/GSB_JAVA/src/modele/dao/DaoOffrir.java</file>
+            <file>file:/C:/wamp64/www/GSB_JAVA/src/vue/VueVisiteur.java</file>
+            <file>file:/C:/wamp64/www/GSB_JAVA/src/controleur/CtrlPrincipal.java</file>
+            <file>file:/C:/wamp64/www/GSB_JAVA/src/modele/metier/Medicament.java</file>
+            <file>file:/C:/wamp64/www/GSB_JAVA/test/modele/dao/DaoCmptRenduTest.java</file>
+            <file>file:/C:/wamp64/www/GSB_JAVA/src/modele/dao/DaoLabo.java</file>
+            <file>file:/C:/wamp64/www/GSB_JAVA/src/vue/VueCmptRendu.java</file>
+            <file>file:/C:/wamp64/www/GSB_JAVA/src/modele/dao/DaoTypePraticien.java</file>
+            <file>file:/C:/wamp64/www/GSB_JAVA/src/vue/VueConnexion.java</file>
+            <file>file:/C:/wamp64/www/GSB_JAVA/src/controleur/CtrlMedicament.java</file>
+            <file>file:/C:/wamp64/www/GSB_JAVA/src/vue/accueil.jpg</file>
+            <file>file:/C:/wamp64/www/GSB_JAVA/src/modele/metier/Labo.java</file>
+            <file>file:/C:/wamp64/www/GSB_JAVA/src/controleur/CtrlPraticien.java</file>
+            <file>file:/C:/wamp64/www/GSB_JAVA/test/modele/metier/VisiteurTest.java</file>
+            <file>file:/C:/wamp64/www/GSB_JAVA/src/modele/jdbc/JdbcInterface.java</file>
+            <file>file:/C:/wamp64/www/GSB_JAVA/src/controleur/CtrlCmptRendu.java</file>
+            <file>file:/C:/wamp64/www/GSB_JAVA/src/modele/jdbc/FabriqueJdbc.java</file>
+            <file>file:/C:/wamp64/www/GSB_JAVA/src/modele/jdbc/Jdbc.java</file>
+            <file>file:/C:/wamp64/www/GSB_JAVA/src/vue/VueMenu.java</file>
+            <file>file:/C:/wamp64/www/GSB_JAVA/src/modele/metier/Famille.java</file>
+            <file>file:/C:/wamp64/www/GSB_JAVA/src/controleur/CtrlMenu.java</file>
+            <file>file:/C:/wamp64/www/GSB_JAVA/test/controleur/CtrlCmptRenduTest.java</file>
+            <file>file:/C:/wamp64/www/GSB_JAVA/src/modele/dao/DaoException.java</file>
+            <file>file:/C:/wamp64/www/GSB_JAVA/src/modele/dao/DaoPraticien.java</file>
+            <file>file:/C:/wamp64/www/GSB_JAVA/src/controleur/Main.java</file>
+            <file>file:/C:/wamp64/www/GSB_JAVA/src/modele/dao/DaoSecteur.java</file>
+            <file>file:/C:/wamp64/www/GSB_JAVA/src/modele/metier/Praticien.java</file>
+            <file>file:/C:/wamp64/www/GSB_JAVA/src/modele/metier/CmptRendu.java</file>
+            <file>file:/C:/wamp64/www/GSB_JAVA/src/modele/metier/TypePraticien.java</file>
+            <file>file:/C:/wamp64/www/GSB_JAVA/src/controleur/CtrlAbstrait.java</file>
+            <file>file:/C:/wamp64/www/GSB_JAVA/src/controleur/CtrlVisiteur.java</file>
+            <file>file:/C:/wamp64/www/GSB_JAVA/src/modele/metier/Visiteur.java</file>
+            <file>file:/C:/wamp64/www/GSB_JAVA/src/modele/dao/DaoCmptRendu.java</file>
+            <file>file:/C:/wamp64/www/GSB_JAVA/src/modele/metier/Offrir.java</file>
+            <file>file:/C:/wamp64/www/GSB_JAVA/src/vue/VuePraticien.java</file>
+            <file>file:/C:/wamp64/www/GSB_JAVA/src/controleur/EnumAction.java</file>
         </group>
     </open-files>
 </project-private>
