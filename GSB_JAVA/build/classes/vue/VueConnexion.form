@@ -17,7 +17,7 @@
       <Point value="[600, 250]"/>
     </Property>
     <Property name="minimumSize" type="java.awt.Dimension" editor="org.netbeans.beaninfo.editors.DimensionEditor">
-      <Dimension value="[750, 460]"/>
+      <Dimension value="[730, 460]"/>
     </Property>
     <Property name="name" type="java.lang.String" value="frame1" noResource="true"/>
     <Property name="size" type="java.awt.Dimension" editor="org.netbeans.beaninfo.editors.DimensionEditor">
